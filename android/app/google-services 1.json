@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610008376361",
+    "project_id": "salone-eats-d4168",
+    "storage_bucket": "salone-eats-d4168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610008376361:android:daac0184589e9523f0e838",
+        "android_client_info": {
+          "package_name": "com.saloneeats.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610008376361-jvpchfisoe4pdb913tt0u3nsaohojet0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr3wb0XmC3PfxcL-imb6-J-Pi_1sKZn38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610008376361-jvpchfisoe4pdb913tt0u3nsaohojet0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
